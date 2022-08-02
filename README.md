@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Md Sharique
 - 👀 I’m interested in Software Developing
-- 🌱 I’m currently learning Java Programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Software development
+- 📫 mdshariquek16@gmail.com
 
 <!---
 Mdsharu/Mdsharu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
