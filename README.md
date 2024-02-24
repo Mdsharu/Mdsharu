@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Md Sharique
-- 👀 I’m interested in Software Developing
+- 👀 I’m interested in Software Development
 - 💞️ I’m looking to collaborate on Software development
 - 📫 mdshariquek16@gmail.com
 
