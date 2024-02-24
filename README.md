@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on Software development
 - 📫 mdshariquek16@gmail.com
 - 🌐 https://www.crio.do/learn/portfolio/mdshariquek16/
-#software
+# software
 
 <!---
 Mdsharu/Mdsharu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
