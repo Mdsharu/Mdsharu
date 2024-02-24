@@ -1,4 +1,10 @@
-# 👋 Hi there, I’m Mohammed Sharique
+<h2 align="center">
+👋 Hi there, I’m Mohammed Sharique
+</h2>
+
+<p align="center">
+// Your content
+</p>
 
 - 👀 I’m interested in Software Development
 - 💞️ I’m looking to collaborate on Software development
